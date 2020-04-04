@@ -13,7 +13,7 @@ sectionPagesMenu = "main"
 pygmentsCodeFences = true
 pygmentsStyle = "monokai"
 
-publishDir = "public"
+publishDir = "docs"
 
 [params]
   editURL = "https://code.amazon.com/packages/Aws-workshop-template/blobs/master/--/workshop/content/"
