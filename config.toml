@@ -1,3 +1,4 @@
+baseURL = "https://glaci.github.io/"
 RelativeURLs=true
 CanonifyURLs=true
 languageCode = "en-US"
