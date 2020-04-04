@@ -3,7 +3,7 @@ CanonifyURLs=true
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "My AWS Workshop"
+title = "Glaci's AWS Workshop"
 theme = "learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
@@ -12,6 +12,8 @@ uglyurls = true
 sectionPagesMenu = "main"
 pygmentsCodeFences = true
 pygmentsStyle = "monokai"
+
+publishDir = "public"
 
 [params]
   editURL = "https://code.amazon.com/packages/Aws-workshop-template/blobs/master/--/workshop/content/"
@@ -41,11 +43,6 @@ hrefTargetBlank = true
 
 [Languages]
 [Languages.en]
-title = "My AWS Workshop"
+title = "Glaci's AWS Workshop"
 weight = 1
 languageName = "English"
-
-[Languages.fr]
-title = "Mon atelier AWS"
-weight = 2
-languageName = "Français"

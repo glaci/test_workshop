@@ -1,0 +1,100 @@
+[
+	{	"pageTitle": "Index",
+		"relativePagePath": "/en/"
+	},    
+	{
+		"pageTitle": "Intro",
+		"relativePagePath": "/intro.html"
+	},
+	{
+		"pageTitle": "Second Content",
+		"relativePagePath": "/intro/second-content.html"
+	},
+	{
+		"pageTitle": "First Content",
+		"relativePagePath": "/intro/first-content.html"
+	},
+	{
+		"pageTitle": "Basics",
+		"relativePagePath": "/basics.html"
+	},
+	{
+		"pageTitle": "Requirements",
+		"relativePagePath": "/basics/requirements.html"
+	},
+	{
+		"pageTitle": "Installation",
+		"relativePagePath": "/basics/installation.html"
+	},
+	{
+		"pageTitle": "Configuration",
+		"relativePagePath": "/basics/configuration.html"
+	},
+	{
+		"pageTitle": "Content",
+		"relativePagePath": "/cont.html"
+	},
+	{
+		"pageTitle": "Pages Organization",
+		"relativePagePath": "/cont/pages.html"
+	},
+	{
+		"pageTitle": "Archetypes",
+		"relativePagePath": "/cont/archetypes.html"
+	},
+	{
+		"pageTitle": "Markdown Syntax",
+		"relativePagePath": "/cont/markdown.html"
+	},
+	{
+		"pageTitle": "Icons and Logos",
+		"relativePagePath": "/cont/icons.html"
+	},
+	{
+		"pageTitle": "Multilingual and i18n",
+		"relativePagePath": "/cont/i18n.html"
+	},
+	{
+		"pageTitle": "Shortcodes",
+		"relativePagePath": "/shortcodes.html"
+	},
+	{
+		"pageTitle": "Attachments",
+		"relativePagePath": "/shortcodes/attachments.html"
+	},
+	{
+		"pageTitle": "Button",
+		"relativePagePath": "/shortcodes/button.html"
+	},
+	{
+		"pageTitle": "Children",
+		"relativePagePath": "/shortcodes/children.html"
+	},    
+	{
+		"pageTitle": "Expand",
+		"relativePagePath": "/shortcodes/expand.html"
+	},
+	{
+		"pageTitle": "Image",
+		"relativePagePath": "/shortcodes/img.html"
+	},
+	{
+		"pageTitle": "Notice",
+		"relativePagePath": "/shortcodes/notice.html"
+	},
+	{
+		"pageTitle": "Site param",
+		"relativePagePath": "/shortcodes/siteparam.html"
+	},
+	{
+		"pageTitle": "Site URL",
+		"relativePagePath": "/shortcodes/siteurl.html"
+	},
+	{
+		"pageTitle": "Launch",
+		"relativePagePath": "/launch.html"
+	},
+	{
+		"pageTitle": "Metadata",
+		"relativePagePath": "/launch/metadata.html"
+	}]
